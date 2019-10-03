@@ -11,4 +11,4 @@ Targeted platforms
 	- Windows Native Executable
 	- WebGL in supported Browsers
 
-See Game Design Document for more information
+See [Game Design Document] (https://github.com/JeffreyMFried/Spell-Timer/blob/master/MagicSpellTimerGDD.docx) for more information
